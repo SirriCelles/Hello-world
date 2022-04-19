@@ -7,14 +7,14 @@
 ## Built With
 
 - HTML
--CSS
+- CSS
 
 ## Getting Started
 
 To get a local copy up and running follow these simple example steps.
 
 ### Setup
--Download or Clone this repositository. 
+- Download or Clone this repositository. 
 
 ## Authors
 
